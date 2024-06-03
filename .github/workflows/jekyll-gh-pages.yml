@@ -28,15 +28,31 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '14' # 或者你需要的其他版本
+
+      - name: Install GitBook CLI
+        run: npm install -g gitbook-cli
+
+      - name: Install GitBook plugins
+        run: gitbook install
+
+      - name: Build with GitBook
+        run: gitbook build
+
       - name: Setup Pages
         uses: actions/configure-pages@v5
-      - name: Build with Jekyll
-        uses: actions/jekyll-build-pages@v1
-        with:
-          source: ./
-          destination: ./_site
+
+      - name: Copy _book to _site
+        run: cp -r _book ./_site
+
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
+        with:
+          path: ./_site
 
   # Deployment job
   deploy:
