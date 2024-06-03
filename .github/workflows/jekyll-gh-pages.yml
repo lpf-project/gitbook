@@ -35,7 +35,7 @@ jobs:
           node-version: '14' # 或者你需要的其他版本
 
       - name: Install GitBook CLI
-        run: npm install -g gitbook-cli
+        run: sudo npm install gitbook-cli@2.1.2 --global
 
       - name: Install GitBook plugins
         run: gitbook install
