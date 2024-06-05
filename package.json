@@ -1,5 +1,8 @@
 {
   "dependencies": {
     "graceful-fs": "^4.2.11"
+  },
+  "devDependencies": {
+    "gitbook-plugin-remove-published-with-link": "^1.0.3"
   }
 }

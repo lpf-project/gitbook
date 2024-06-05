@@ -170,3 +170,4 @@ TypeError: cb.apply is not a function
 - https://docs.gitbook.com/
 - 搭建文档：https://dunwu.gitbooks.io/gitbook-notes/content/
 - 如何在markdown中打印项目目录结构 https://www.jianshu.com/p/e38a07f824a2
+- https://www.zhaowenyu.com/gitbook-doc/manual/markdown.html
