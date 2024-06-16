@@ -14,7 +14,8 @@
         "insert-logo",
         "ace",
         "anchors",
-        "favicon"
+        "favicon",
+        "tabs"
     ],
     "pluginsConfig": {
         "favicon": {
@@ -25,6 +26,9 @@
         "insert-logo": {
             "url": "images/apple-touch-icon.png",
             "style": "background: none; max-height: 30px; min-height: 30px"
+        },
+        "tabs": {
+            "transformTabsToAccordion": false
         }
     }
 

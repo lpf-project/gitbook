@@ -18,7 +18,6 @@ description: 通过安装第三方插件，帮助文档实现更多的能力
 
 ### 去除自带插件
 
-{% code fullWidth="false" %}
 ```json
 {
     "title": "gitbook",
@@ -27,15 +26,12 @@ description: 通过安装第三方插件，帮助文档实现更多的能力
     ]
 }
 ```
-{% endcode %}
 
 ## 第三方插件
 
 > 插件的命名一般为：gitbook-plugin-xxx，例如insert-logo插件，实际命名为gitbook-plugin-insert-logo，但因为前缀一致，直接用简写即可。
 
-插件地址直接在npm查询
-
-{% embed url="https://www.npmjs.com/" %}
+插件地址直接在[npm](https://www.npmjs.com/)查询
 
 常用插件列表如下：
 
