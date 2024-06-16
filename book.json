@@ -13,9 +13,9 @@
         "accordion",
         "insert-logo",
         "ace",
-        "back-to-top-button",
         "anchors",
-        "favicon"
+        "favicon",
+        "embed"
     ],
     "pluginsConfig": {
         "favicon": {
