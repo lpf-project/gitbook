@@ -23,7 +23,7 @@
         "-search", 
         "search-pro",
         "splitter",
-        "page-treeview",
+        "page-treeview-simple",
         "code",
         "expandable-chapters-small",
         "remove-published-with-link",
