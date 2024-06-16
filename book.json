@@ -19,6 +19,13 @@
         }
     },
     "plugins": [
+        "-lunr", 
+        "-search", 
+        "search-pro",
+        "splitter",
+        "page-treeview",
+        "code",
+        "expandable-chapters-small",
         "remove-published-with-link",
         "copy-code-button",
         "anchor-navigation-ex",
@@ -37,6 +44,10 @@
         "insert-logo": {
             "url": "images/apple-touch-icon.png",
             "style": "background: none; max-height: 30px; min-height: 30px"
+        },
+        "sidebar-style": {
+            "title": "《Gitbook》",
+            "author": "lpf"
         }
     }
 
