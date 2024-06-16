@@ -71,8 +71,8 @@ description: 通过安装第三方插件，帮助文档实现更多的能力
 
 我们以`accordion`插件为例，两种安装方式
 
-{% tabs %}
-{% tab title="批量安装（推荐）" %}
+### 批量安装（推荐）
+
 1、在gitbook.json中配置
 
 ```
@@ -89,12 +89,12 @@ description: 通过安装第三方插件，帮助文档实现更多的能力
 ```
 gitbook install .
 ```
-{% endtab %}
 
-{% tab title="单个插件" %}
+### 单个插件
+
+```
 npm install gitbook-plugin-accordion
-{% endtab %}
-{% endtabs %}
+```
 
 ## 插件配置
 
