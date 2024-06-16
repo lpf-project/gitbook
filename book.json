@@ -14,8 +14,7 @@
         "insert-logo",
         "ace",
         "anchors",
-        "favicon",
-        "embed"
+        "favicon"
     ],
     "pluginsConfig": {
         "favicon": {
