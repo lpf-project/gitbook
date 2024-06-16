@@ -13,9 +13,6 @@
             "google": null,
             "twitter": null,
             "weibo": null
-        },
-        "sidebar": {
-            "LPF's Blog": null
         }
     },
     "plugins": [
@@ -27,11 +24,9 @@
         "code",
         "expandable-chapters-small",
         "remove-published-with-link",
-        "copy-code-button",
         "anchor-navigation-ex",
         "accordion",
         "insert-logo",
-        "ace",
         "anchors",
         "favicon"
     ],
