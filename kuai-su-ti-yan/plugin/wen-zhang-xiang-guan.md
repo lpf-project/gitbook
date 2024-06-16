@@ -6,7 +6,7 @@
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -44,6 +44,10 @@ anchor-navigation-ex
 ```
 
 注意：目录为H1、H2、H3才可以生成目录
+
+### simple-page-toc
+
+> 回到顶部
 
 ### &#x20;Edit Link <a href="#edit-link" id="edit-link"></a>
 
@@ -87,7 +91,7 @@ this is information
 
 展示：
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 文章内目录
 
