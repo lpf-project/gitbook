@@ -1,8 +1,27 @@
 # 评论
 
-### disqus
+## disqus
 
-https://snowdreams1006.gitbook.io/www/ru-men-jiao-cheng/mygitbook/advance/plugin/plugin-practical
+```json
+{
+    "plugins": ["disqus"],
+    "pluginsConfig": {
+        "disqus": {
+            "shortName": "XXXXXXX"
+        }
+    }
+}
+```
+
+在某个页面禁止评论
+
+```
+---
+disqus: false
+---
+
+# My Page without disqus
+```
 
 ### gitalk
 

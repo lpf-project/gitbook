@@ -10,6 +10,8 @@
   * [命令](part2/command.md)
   * [配置](part2/setting.md)
   * [插件](part2/plugin.md)
+    * [SEO](kuai-su-ti-yan/plugin/seo.md)
+    * [文章相关](kuai-su-ti-yan/plugin/wen-zhang-xiang-guan.md)
     * [其他插件](kuai-su-ti-yan/plugin/qi-ta-cha-jian.md)
     * [全文检索](kuai-su-ti-yan/plugin/quan-wen-jian-suo.md)
     * [评论](kuai-su-ti-yan/plugin/ping-lun.md)

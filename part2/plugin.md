@@ -35,37 +35,7 @@ description: 通过安装第三方插件，帮助文档实现更多的能力
 
 常用插件列表如下：
 
-| 模块名称                      | 功能描述                                                         | 备注 |
-| ------------------------- | ------------------------------------------------------------ | -- |
-| accordion                 | 手风琴折叠模块                                                      |    |
-| insert-logo               | 配置logo                                                       |    |
-| ace                       | 代码 ACE 显示                                                    |    |
-| copy-code-button          | 代码复制按钮                                                       |    |
-| disqus                    | 评论系统                                                         |    |
-| anchor-navigation-ex      | 页面导航和回到顶部                                                    |    |
-| back-to-top-button        | 回到顶部                                                         |    |
-| page-toc-button           | 安装失败                                                         |    |
-| anchors                   | 添加 Github 风格的锚点样式                                            |    |
-| Anchor-navigation-ex      | 添加Toc到侧边悬浮导航以及回到顶部按钮                                         |    |
-| Edit Link                 | 添加“编辑此页面”链接。                                                 |    |
-| Emphasize                 | 为文字加上底色                                                      |    |
-| Expandable-chapters-small | 对可扩展章节插件进行微小的更改，以使用较小的箭头。                                    |    |
-| Favicon                   | 为您的网站添加了一个图标和 Apple Touch 图标                                 |    |
-| Github                    | 显示一个跳转到你的 github 地址的链接。                                      |    |
-| Local Video               | 使用Video.js 播放本地视频                                            |    |
-| Prism                     |                                                              |    |
-| Search Plus               | 支持中文搜索, 需要将默认的 search 和 lunr 插件去掉。                           |    |
-| Sectionx                  | 将页面分块显示，标签的 tag 最好是使用 b 标签，如果使用 h1-h6 可能会和其他插件冲突。            |    |
-| Simple-page-toc           |                                                              |    |
-| Sitemap-general           |                                                              |    |
-| Splitter                  |                                                              |    |
-| Sharing                   |                                                              |    |
-| Tbfed-pagefooter          | 为页面添加页脚                                                      |    |
-| Todo                      |                                                              |    |
-| donate                    |                                                              |    |
-| reward                    |                                                              |    |
-| Google 统计                 |                                                              |    |
-| Baidu 统计                  | https://www.zhaowenyu.com/gitbook-doc/plugins/cat-count.html |    |
+<table><thead><tr><th width="321">模块名称</th><th width="388">功能描述</th></tr></thead><tbody><tr><td>accordion</td><td>手风琴折叠模块</td></tr><tr><td>insert-logo</td><td>配置logo</td></tr><tr><td></td><td></td></tr><tr><td>copy-code-button</td><td>代码复制按钮</td></tr><tr><td>disqus</td><td>评论系统</td></tr><tr><td>anchor-navigation-ex</td><td>页面导航和回到顶部</td></tr><tr><td>back-to-top-button</td><td>回到顶部</td></tr><tr><td>page-toc-button</td><td>安装失败</td></tr><tr><td>Anchors</td><td>添加 Github 风格的锚点样式</td></tr><tr><td>Anchor-navigation-ex</td><td>添加Toc到侧边悬浮导航以及回到顶部按钮</td></tr><tr><td>Edit Link</td><td>添加“编辑此页面”链接。</td></tr><tr><td>Emphasize</td><td>为文字加上底色</td></tr><tr><td>Expandable-chapters-small</td><td>对可扩展章节插件进行微小的更改，以使用较小的箭头。</td></tr><tr><td>Favicon</td><td>为您的网站添加了一个图标和 Apple Touch 图标</td></tr><tr><td>Github</td><td>显示一个跳转到你的 github 地址的链接。</td></tr><tr><td>Local Video</td><td>使用Video.js 播放本地视频</td></tr><tr><td>Prism</td><td></td></tr><tr><td>Search Plus</td><td>支持中文搜索, 需要将默认的 search 和 lunr 插件去掉。</td></tr><tr><td>Sectionx</td><td>将页面分块显示，标签的 tag 最好是使用 b 标签，如果使用 h1-h6 可能会和其他插件冲突。</td></tr><tr><td>Simple-page-toc</td><td></td></tr><tr><td>Sitemap-general</td><td></td></tr><tr><td>Splitter</td><td></td></tr><tr><td>Sharing</td><td></td></tr><tr><td>Tbfed-pagefooter</td><td>为页面添加页脚</td></tr><tr><td>Todo</td><td></td></tr><tr><td>donate</td><td></td></tr><tr><td>reward</td><td></td></tr><tr><td>Google 统计</td><td></td></tr><tr><td>Baidu 统计</td><td>https://www.zhaowenyu.com/gitbook-doc/plugins/cat-count.html</td></tr></tbody></table>
 
 ## 插件安装
 

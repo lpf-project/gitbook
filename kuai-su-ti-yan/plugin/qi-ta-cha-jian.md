@@ -16,3 +16,40 @@
     } 
 }
 ```
+
+### Splitter <a href="#splitter" id="splitter"></a>
+
+侧边栏宽度可调节
+
+### expandable-chapters-small
+
+配置
+
+```
+{
+    "plugins": ["expandable-chapters-small"]
+}  
+```
+
+说明：美化左侧导航栏的箭头，使其变小&#x20;
+
+### sidebar-style
+
+配置
+
+```
+{
+    "plugins": ["sidebar-style"],
+    "pluginsConfig": {
+        "sidebar-style": {
+            "title": "《Gitbook》",
+            "author": "LPF"
+        }
+    }
+}
+```
+
+说明：替换掉 `Published by GitBook` 提示信息
+
+
+
