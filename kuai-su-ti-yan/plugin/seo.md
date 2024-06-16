@@ -34,5 +34,27 @@ sitemap-general
 
 Google 统计
 
+```json
+"plugins": [
+    "ga"
+ ],
+"pluginsConfig": {
+    "ga": {
+        "token": "UA-XXXX-Y"
+    }
+}
+```
+
 Baidu 统计
+
+```json
+{
+    "plugins": ["3-ba"],
+    "pluginsConfig": {
+        "3-ba": {
+            "token": "xxxxxxxx"
+        }
+    }
+}
+```
 
