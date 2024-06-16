@@ -1,3 +1,13 @@
-## gitbook1.png 图片中的 Introduction和 Published with GitBook如何去掉？
+## Gitbook博客左侧的Published with GitBook如何去掉？
 
-npm install gitbook-plugin-remove-published-with-link
+![link](../images/remove-link.png)
+
+```json
+{
+    "title": "gitbook",
+    "plugins": [
+        "remove-published-with-link"
+    ]
+}
+```
+

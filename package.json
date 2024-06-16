@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "gitbook-plugin-page-toc-button": "^0.1.1",
     "graceful-fs": "^4.2.11"
   },
   "devDependencies": {

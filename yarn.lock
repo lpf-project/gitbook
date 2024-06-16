@@ -2,6 +2,11 @@
 # yarn lockfile v1
 
 
+gitbook-plugin-page-toc-button@^0.1.1:
+  version "0.1.1"
+  resolved "https://registry.npmmirror.com/gitbook-plugin-page-toc-button/-/gitbook-plugin-page-toc-button-0.1.1.tgz"
+  integrity sha512-htlxoEWhPkKze4W8xaWJ6KmC95e706dEVH06dKQSmgMEXzfovtxW67PxDwy78f0JB4z1B/3ZkaEoFmbWazAMow==
+
 gitbook-plugin-remove-published-with-link@^1.0.3:
   version "1.0.3"
   resolved "https://registry.npmmirror.com/gitbook-plugin-remove-published-with-link/-/gitbook-plugin-remove-published-with-link-1.0.3.tgz"

@@ -2,7 +2,7 @@
 
 gitbook开发时需要在node环境下，执行命令，所以本机要安装node
 
-## 一、安装node环境
+## 安装node环境
 
 安装地址：https://nodejs.org/en/download/package-manager
 
@@ -22,7 +22,7 @@ nvm install 20
 
 ```
 
-## 二、查看安装的node和npm版本
+## 查看安装的node和npm版本
 
 ```bash
 # verifies the right Node.js version is in the environment
@@ -32,7 +32,7 @@ node -v # should print `v20.14.0`
 npm -v # should print `10.7.0`
 ```
 
-## 三、参考站点
+## 参考站点
 - [node官网](https://nodejs.org/en)
 - [github](https://github.com/)
 - [git](https://www.git-scm.com/)

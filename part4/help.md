@@ -2,3 +2,16 @@
 - [官方文档](https://docs.gitbook.com/)
 - https://blog.csdn.net/qq_40889820/article/details/110013310
 - https://www.icasture.top/
+- https://www.zhaowenyu.com/gitbook-doc/plugins/cat-count.html
+- [gitbook优秀博客](https://www.mapull.com/gitbook/comscore/custom/plugin/other/Klipse.html)
+- Gitbook使用方法：https://yangjh.oschina.io/gitbook/faq/Plugins.html
+- gitbook插件参考：https://www.jianshu.com/p/427b8bb066e6
+- 可参考优秀的文档：https://snowdreams1006.gitbook.io/www/#ke-long-wang-zhan
+- https://zhuanlan.zhihu.com/p/343212233
+- https://docs.gitbook.com/
+- 搭建文档：https://dunwu.gitbooks.io/gitbook-notes/content/
+- https://www.zhaowenyu.com/gitbook-doc/manual/markdown.html
+- 评论系统(disqus)[https://disqus.com/]
+- https://dunwu.gitbooks.io/gitbook-notes/content/advanced/plugins.html
+- https://www.jianshu.com/p/427b8bb066e6
+- https://snowdreams1006.gitbook.io/www/ru-men-jiao-cheng/mygitbook/advance/plugin/plugin-practical
