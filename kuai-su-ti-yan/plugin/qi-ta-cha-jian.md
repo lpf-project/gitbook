@@ -21,6 +21,20 @@
 
 侧边栏宽度可调节
 
+
+
+### accordion
+
+> 侧边栏折叠
+
+<div align="left">
+
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+
+
 ### expandable-chapters-small
 
 配置

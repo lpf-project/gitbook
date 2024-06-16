@@ -20,5 +20,6 @@
   * [常见问题](part2/questions.md)
 * [部署](bu-shu/README.md)
   * [Github Page](part3/github.md)
+  * [Gitbook在线编辑](bu-shu/gitbook-zai-xian-bian-ji.md)
 * [附录](fu-lu/README.md)
   * [参考](part4/help.md)
