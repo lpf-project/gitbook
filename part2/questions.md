@@ -1,6 +1,12 @@
-## Gitbook博客左侧的Published with GitBook如何去掉？
+# 常见问题
 
-![link](../images/remove-link.png)
+
+
+<div align="left">
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 ```json
 {
@@ -10,4 +16,6 @@
     ]
 }
 ```
+
+
 

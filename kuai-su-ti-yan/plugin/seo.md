@@ -1,6 +1,6 @@
 # SEO
 
-sitemap-general
+**sitemap-general**
 
 ```json
 {
@@ -13,7 +13,9 @@ sitemap-general
 }
 ```
 
-### Sharing <a href="#sharing" id="sharing"></a>
+
+
+### sharing <a href="#sharing" id="sharing"></a>
 
 ```json
 "pluginsConfig": {
@@ -32,7 +34,7 @@ sitemap-general
 }
 ```
 
-Google 统计
+Google
 
 ```json
 "plugins": [
@@ -45,7 +47,7 @@ Google 统计
 }
 ```
 
-Baidu 统计
+Baidu
 
 ```json
 {

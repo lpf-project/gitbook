@@ -1,12 +1,12 @@
 # 文章相关
 
-## Anchors
+## anchors
 
 添加 Github 风格的锚点样式
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -49,7 +49,7 @@ anchor-navigation-ex
 
 > 回到顶部
 
-### &#x20;Edit Link <a href="#edit-link" id="edit-link"></a>
+### &#x20;edit-link <a href="#edit-link" id="edit-link"></a>
 
 ```json
 {
@@ -63,15 +63,15 @@ anchor-navigation-ex
 }
 ```
 
-### &#x20;Local Video <a href="#local-video" id="local-video"></a>
+### &#x20;local-video <a href="#local-video" id="local-video"></a>
 
-### Todo
+### todo
 
 ### expandable-chapters-small
 
 > 折叠目录
 
-### Alertarea
+### alertarea
 
 配置：
 
@@ -91,7 +91,7 @@ this is information
 
 展示：
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 文章内目录
 

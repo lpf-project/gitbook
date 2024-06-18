@@ -42,6 +42,3 @@
 }
 ```
 
-## anchor-navigation-ex
-
-![页面导航](../images/anchor-navigation-ex.png)
