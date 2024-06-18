@@ -101,3 +101,21 @@ this is information
 }
 ```
 
+
+### prism
+
+> 代码高亮
+
+安装插件之前
+![alt text](../../images/prism-before.png)
+
+安装插件之后
+![alt text](../../images/prism-after.png)
+
+如何配置
+
+```json
+{
+  "plugins": ["prism", "-highlight"]
+}
+```

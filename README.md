@@ -2,9 +2,9 @@
 
 ## 一、说明
 
-示例地址：
+示例地址：https://lpf-project.github.io/gitbook/
 
-仓库地址：
+仓库地址：https://github.com/lpf-project/gitbook
 
 Gitbook是个文档管理的工具，它有两种使用方式：
 - 1.在[网站](https://www.gitbook.com/)注册账号使用
@@ -150,11 +150,3 @@ TypeError: cb.apply is not a function
 `SUMMARY.md`文件介绍
 
 该文件为项目的目录结构和跳转地址
-
-## 四、配置
-
-
-
-## 五、发布
-
-## 六、插件

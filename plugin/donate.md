@@ -11,8 +11,8 @@
     ],
     "pluginsConfig": [
         "donate": {
-          "wechat": "https://my-pay-code.oss-cn-hangzhou.aliyuncs.com/wechat-pay.jpg",
-          "alipay": "https://my-pay-code.oss-cn-hangzhou.aliyuncs.com/ali-pay.jpg",
+          "wechat": "",
+          "alipay": "",
           "title": "鼓励一下",
           "button": "赏",
           "alipayText": "支付宝打赏",
